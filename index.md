@@ -8,8 +8,7 @@ Recently, I've focussed on two main themes.
 
 I've previously worked at [Open Philanthropy](https://www.openphilanthropy.org/) and the UK's [AI Security Institute](https://www.aisi.gov.uk/). 
 
-# Research 
-## Top picks
+# Research top picks
 **AI-enabled human coups**
 - [AI-enabled coups: how a small group could use AI to seize power](https://www.forethought.org/research/ai-enabled-coups-how-a-small-group-could-use-ai-to-seize-power)
 - [Podcast with 80,000 hours on AI-enabled coups]()
@@ -27,7 +26,7 @@ I've previously worked at [Open Philanthropy](https://www.openphilanthropy.org/)
 - [What are the social returns globally to spending on R&D?](https://www.openphilanthropy.org/research/social-returns-to-productivity-growth/)
 
 
-## Other research
+# Other research
 - [Will compute bottlenecks block a software intelligence explosion](https://www.lesswrong.com/posts/XDF6ovePBJf6hsxGj/will-compute-bottlenecks-prevent-a-software-intelligence-1)
 - [Will training new AI systems from scratch block a software intelligence explosion](https://www.forethought.org/research/will-the-need-to-retrain-ai-models)
 - [Could Advanced AI Accelerate the Pace of AI Progress? Interviews with AI Researchers](https://www.forethought.org/research/could-advanced-ai-accelerate-the-pace-of-ai-progress-interviews-with-ai)
