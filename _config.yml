@@ -4,5 +4,3 @@ description: AI Strategy Researcher | Forethought
 remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
-github:
-  is_project_page: false
