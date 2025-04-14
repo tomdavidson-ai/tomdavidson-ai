@@ -2,7 +2,7 @@
 
 I research risks from advanced AI at [Forethought](https://www.forethought.org/).
 
-Recently, I've focussed on two main themes.
+Recently, I've focussed on two main themes:
 1. AI-enabled human coups: Could a few people use superhuman AI to seize power over a country, or even the world?  
 2. AI takeoff speeds: How long might it take to go from broadly human-level AI to significantly superhuman AI?
 
