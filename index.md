@@ -11,7 +11,7 @@ I've previously worked at [Open Philanthropy](https://www.openphilanthropy.org/)
 # Research top picks
 **AI-enabled human coups**
 - [AI-enabled coups: how a small group could use AI to seize power](https://www.forethought.org/research/ai-enabled-coups-how-a-small-group-could-use-ai-to-seize-power)
-- [Podcast with 80,000 hours on AI-enabled coups]()
+- [Podcast with 80,000 hours on AI-enabled coups](https://80000hours.org/podcast/episodes/tom-davidson-ai-enabled-human-power-grabs)
 - [Human takeover might be worse than AI takeover](https://www.lesswrong.com/posts/FEcw6JQ8surwxvRfr/human-takeover-might-be-worse-than-ai-takeover)
 
 **Takeoff speeds**
